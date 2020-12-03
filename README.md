@@ -29,4 +29,4 @@ The user can exit the application at any point by typing *'exit'* into the termi
 
 ### License
 
-The gem is available as open source under the terms of the MIT License.
+The gem is available as open source under the terms of the [MIT License] (https://opensource.org/licenses/MIT).
