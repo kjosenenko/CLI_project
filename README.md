@@ -8,6 +8,13 @@ The NHL has many trophies with unique names. This application provides a descrip
 
 https://records.nhl.com/site/api/trophy
 
+### Installation
+
+Clone this repostiory into your directory.
+Navigate to the new directory then execute:
+$ bundle install
+
+
 ### Using this application
 
 To begin, navigate to the application's folder in your terminal and type *'ruby bin/run'*.  
