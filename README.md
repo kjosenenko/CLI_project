@@ -13,9 +13,9 @@ https://records.nhl.com/site/api/trophy
 Clone this repostiory into your directory.
 
 Navigate to the new directory then execute:
-'''
+```
 $ bundle install
-'''
+```
 
 
 ### Using this application
