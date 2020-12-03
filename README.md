@@ -27,6 +27,10 @@ Once a trophy is selected, the user can see what the trophy is awarded for, alon
 The user can then view the list of trophies again or choose to exit the application.
 The user can exit the application at any point by typing *'exit'* into the terminal.
 
+### Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/kjosenenko/CLI_project.
+
 ### License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT). 
